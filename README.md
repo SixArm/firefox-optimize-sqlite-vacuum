@@ -1,4 +1,4 @@
-# Firefox script to optimize SQLite by using vacuum to delete stale data.
+# Firefox script to optimize SQLite by using vacuum to delete stale data
 
 Credit: http://ubuntuforums.org/showthread.php?t=1193567
 
